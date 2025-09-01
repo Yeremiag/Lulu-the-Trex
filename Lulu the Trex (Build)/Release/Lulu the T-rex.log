@@ -1,0 +1,78 @@
+﻿  Enemy.cpp
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(10,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(11,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(12,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(13,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(14,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(19,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(20,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(21,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Enemy.cpp(22,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ground.cpp
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Ground.cpp(10,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Ground.cpp(11,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Ground.cpp(15,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Ground.cpp(16,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lulunimation.cpp
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Lulunimation.cpp(10,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Lulunimation.cpp(11,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Main.cpp
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(27,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(515,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(555,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(556,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(565,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(565,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(573,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(573,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(579,37): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(612,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(613,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(619,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(620,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(626,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(627,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(633,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(634,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(697,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(698,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(720,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(723,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(730,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(737,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(744,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(751,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(762,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(767,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(795,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(799,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(832,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(836,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(869,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(873,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(906,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(910,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(943,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(947,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(1000,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\Main.cpp(1001,43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  cloud.cpp
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\cloud.cpp(12,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\cloud.cpp(13,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\cloud.cpp(14,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\cloud.cpp(15,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  10 of 106 functions ( 9.4%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lulu the T-rex.vcxproj -> C:\Users\yereg\Documents\Coding\My game\1. Lulu the T-rex (SFML C++)\Lulu the T-rex\x64\Release\Lulu the T-rex.exe
